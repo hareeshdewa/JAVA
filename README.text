@@ -1,0 +1,5 @@
+The above project is a simple command-line calculator written in Java. 
+It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+The program displays a menu of operations, and users can choose an operation by entering a corresponding letter (a, s, m, or d). 
+Then, they are prompted to enter two numbers on which the selected operation will be performed. 
+The result of the operation is displayed, and users have the option to continue using the calculator or exit it by typing "no."
